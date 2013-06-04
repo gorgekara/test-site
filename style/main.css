@@ -1,0 +1,132 @@
+/*
+	Main style for Test site
+	@author Gjorge Karakabakov
+	@email gorgekara@gmail.com
+*/
+
+body {
+	font-family: Open Sans, Helvetica, Arial;
+	font-size: 1em;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: #EEE;
+	color: #777;
+	padding: 15px 20px 10px 20px;
+	line-height: 30px;
+}
+
+header h1 {
+	padding: 0;
+	margin: 0;
+	color: #2D2D2D;
+	text-shadow: 1px 1px 1px white;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+header small {
+	color: #777;
+}
+
+.title {
+	float: left;
+}
+
+.about-box {
+	float: right;
+	font-size: 0.8em;
+}
+
+.about-box a {
+	text-decoration: none;
+	color: #08F;
+}
+
+.about-title {
+	color: #CCC;
+	font-weight: 600;
+	background: #FCFCFC;
+	padding: 3px 5px;
+	margin-right: 10px;
+	border-radius: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+}
+
+.last-change {
+	background: #DDD;
+	color: #999;
+	padding: 5px;
+	font-size: 0.8em;
+	padding-left: 20px;
+}
+
+.change-date {
+	color: #727272;
+	font-weight: 600;
+	padding: 5px 10px;
+	background: #D1D1D1;
+	margin-right: 10px;
+}
+
+.main {
+	display: block;
+	width: auto;
+	padding: 20px;
+}
+
+article {
+	cursor: pointer;
+	cursor: hand;
+	position: relative;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.32);
+	-webkit-box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.32);
+	-moz-box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.32);
+	border: 1px solid #2D2D2D;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+
+article a {
+	color: #FFF;
+	text-decoration: none;
+	font-size: 0.7em;
+	text-transform: uppercase;
+	font-weight: 600;
+	position: absolute;
+	top: 100px;
+	left: 1px;
+	background: rgba(0, 0, 0, 0.43);
+	padding: 10px;
+	display: inline-block;
+}
+
+article:hover {
+	opacity: 0.8;
+}
+
+.humanoid {
+	background: url(../img1.png) no-repeat;
+	background-size: 150px;
+}
+
+.boxend {
+	background: url(../img2.png) -10px -10px no-repeat;
+	background-size: 200px;
+}
+
+.clearfix {
+	clear: both;
+	display: block;
+}

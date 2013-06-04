@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3974"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="raptor_space_wing.svg">
+  <defs
+     id="defs3976">
+    <filter
+       inkscape:collect="always"
+       id="filter4518"
+       x="-0.075057491"
+       width="1.150115"
+       y="-0.29908365"
+       height="1.5981673">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.744651"
+         id="feGaussianBlur4520" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4569"
+       x="-0.15311689"
+       width="1.3062338"
+       y="-0.098661148"
+       height="1.1973223">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3926469"
+         id="feGaussianBlur4571" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4579"
+       x="-0.27203772"
+       width="1.5440754"
+       y="-0.15454186"
+       height="1.3090837">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.218659"
+         id="feGaussianBlur4581" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-41.444701"
+     inkscape:cy="605.10881"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3979">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4631"
+       d="m -111.83563,407.74362 -1.43498,1.53256 0.16032,4.89964 -2.46773,3.83305 3.5706,2.92003 7.1656,-3.88666 -0.0119,-5.45761 z"
+       style="fill:#4d4d4d;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4619"
+       d="m -124.86588,406.56618 -3.3291,7.53177 2.54995,8.41716 13.64848,-1.60013 -1.0222,-6.65204 1.18662,-6.51958 z"
+       style="fill:#4d4d4d;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.53061224;fill:#808080;stroke:none"
+       d="m -126.43174,407.09829 -3.41133,6.55075 2.80182,8.34901 14.29912,-1.63723 -0.95879,-6.13633 1.1874,-6.00293 z"
+       id="path4623"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4645"
+       d="m -144.47934,414.74992 -5.94974,26.22679 -8.16736,0.0844 0.83482,-26.31639 z"
+       style="fill:#004455;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#004455;stroke:none"
+       d="m -144.47934,415.57987 -5.94974,-26.22678 -8.16736,-0.0844 0.83482,26.31638 z"
+       id="path4637"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#f2f2f2;stroke:none"
+       d="m -146.28229,414.74972 -5.29209,25.22008 -7.04138,0.0812 2.87345,-25.30624 z"
+       id="path4647"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4649"
+       d="m -147.93964,414.81332 -4.7108,24.4181 -6.04615,0.0787 0.87123,-24.50152 z"
+       style="opacity:0.5528571;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4641"
+       d="m -146.28229,415.57979 -5.29209,-26.6043 -7.04138,-0.0856 2.87345,26.69519 z"
+       style="fill:#f2f2f2;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.5528571;fill:#ffffff;stroke:none"
+       d="m -147.93964,415.51591 -4.7108,-27.3124 -6.04615,-0.088 0.87123,27.4057 z"
+       id="path4643"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <g
+       id="g4703"
+       transform="matrix(0,0.77422439,-0.77422439,0,206.57598,347.47983)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94">
+      <path
+         style="fill:#ffffff;stroke:#808080;stroke-width:0.52539808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.453063,442.50284 2.134758,30.45077 -1.45951,1.82439 -9.918052,0 -1.608785,-1.60878 C 86.307537,462.9859 87.0136,453.1688 87.71967,442.61928 l 1.233527,-1.81831 6.244842,-0.0166 z"
+         id="path4677"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4651"
+         d="m 84.871265,442.50284 2.134759,30.45077 -1.459513,1.82439 -9.918055,0 -1.608785,-1.60878 c 0.706062,-10.18332 1.412128,-20.00042 2.118195,-30.54994 l 1.23353,-1.81831 6.244839,-0.0166 z"
+         style="fill:#ffffff;stroke:#808080;stroke-width:0.52539808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#c83737;stroke:none"
+         d="m 97.01305,474.53172 -9.683506,0.0138 -1.494349,-1.45515 2.189206,-1.68434 7.777084,0.0218 2.543733,1.45147 z"
+         id="path4679"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4653"
+         d="m 85.43125,474.53172 -9.683508,0.0138 -1.494353,-1.45515 2.189213,-1.68434 7.77708,0.0218 2.543738,1.45147 z"
+         style="fill:#c83737;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4681"
+         d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+         style="fill:#37abc8;stroke:none;filter:url(#filter4518)"
+         transform="matrix(-0.5579452,0,0,0.5579452,117.56456,202.85764)" />
+      <path
+         transform="matrix(-0.5579452,0,0,0.5579452,105.98276,202.85764)"
+         style="fill:#37abc8;stroke:none;filter:url(#filter4518)"
+         d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+         id="path4655"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         transform="matrix(-0.35929545,0,0,0.35929545,108.35762,297.88775)"
+         style="opacity:0.52653061;fill:#216778;stroke:none;filter:url(#filter4518)"
+         d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+         id="path4683"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4657"
+         d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+         style="opacity:0.52653061;fill:#216778;stroke:none;filter:url(#filter4518)"
+         transform="matrix(-0.35929545,0,0,0.35929545,96.775812,297.88775)" />
+      <path
+         transform="matrix(-0.52539807,0,0,0.52539807,147.52637,218.2497)"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4685"
+         d="m 94.629292,456.08807 10.575038,4.45099 11.25373,-3.40927 -2.13938,-30.248 -8.84912,0.96491 -8.761316,-1.18473 z"
+         style="fill:#2c89a0;stroke:none;filter:url(#filter4569)" />
+      <path
+         style="fill:#2c89a0;stroke:none;filter:url(#filter4569)"
+         d="m 94.629292,456.08807 10.575038,4.45099 11.25373,-3.40927 -2.13938,-30.248 -8.84912,0.96491 -8.761316,-1.18473 z"
+         id="path4659"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         transform="matrix(-0.52539807,0,0,0.52539807,135.94456,218.2497)" />
+      <path
+         style="fill:#2c89a0;stroke:none"
+         d="m 97.808307,457.8775 -5.556099,2.33854 -5.912684,-1.79123 1.124021,-15.89224 4.649312,0.50696 4.603178,-0.62246 z"
+         id="path4687"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4661"
+         d="m 86.22651,457.8775 -5.556103,2.33854 -5.912688,-1.79123 1.124026,-15.89224 4.64931,0.50696 4.60318,-0.62246 z"
+         style="fill:#2c89a0;stroke:none" />
+      <path
+         transform="matrix(-0.52539807,0,0,0.52539807,147.52637,218.2497)"
+         style="opacity:0.53061224;fill:#00aad4;stroke:none;filter:url(#filter4579)"
+         d="m 95.879292,458.23741 8.758328,4.56094 10.81536,-3.68289 -2.14433,-30.18422 -7.94629,2.22707 -7.891984,-2.81523 z"
+         id="path4689"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4663"
+         d="m 95.879292,458.23741 8.758328,4.56094 10.81536,-3.68289 -2.14433,-30.18422 -7.94629,2.22707 -7.891984,-2.81523 z"
+         style="opacity:0.53061224;fill:#00aad4;stroke:none;filter:url(#filter4579)"
+         transform="matrix(-0.52539807,0,0,0.52539807,135.94456,218.2497)" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4691"
+         d="m 97.151569,459.00675 -4.601615,2.39631 -5.682365,-1.93498 1.126627,-15.85873 4.174965,1.1701 4.146435,-1.47912 z"
+         style="opacity:0.53061224;fill:#ffffff;stroke:none" />
+      <path
+         style="opacity:0.53061224;fill:#ffffff;stroke:none"
+         d="m 85.569767,459.00675 -4.601612,2.39631 -5.682369,-1.93498 1.126626,-15.85873 4.174966,1.1701 4.146437,-1.47912 z"
+         id="path4665"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="opacity:0.36285735;fill:#ffffff;stroke:none"
+         d="m 92.218831,445.55269 3.752842,-1.50114 0.750565,15.85577 -4.691047,2.11097 z"
+         id="path4693"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4667"
+         d="m 80.637028,445.55269 3.752843,-1.50114 0.75057,15.85577 -4.691053,2.11097 z"
+         style="opacity:0.36285735;fill:#ffffff;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         style="fill:#cccccc;stroke:none"
+         d="m 99.255034,473.67715 -3.074773,-1.77251 -8.464688,0.0361 -1.342023,0.75945 -0.02686,-15.05013 5.782094,2.31713 6.077208,-2.3513 z"
+         id="path4695"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4669"
+         d="m 86.41646,472.69459 -1.818003,-0.78995 -8.464689,0.0361 -2.713041,2.06191 1.22991,-15.73563 5.896343,1.70017 5.803006,-2.3056 z"
+         style="fill:#cccccc;stroke:none" />
+      <path
+         style="opacity:0.35510206;fill:#ffffff;stroke:none"
+         d="m 91.953673,460.51457 5.904393,-2.32195 0.995123,14.72781 -2.786343,-1.52586 -4.245858,0.0664 z"
+         id="path4697"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4671"
+         d="m 80.37187,460.51457 5.904397,-2.32195 0.01256,14.06515 -1.803776,-0.8632 -4.245863,0.0664 z"
+         style="opacity:0.35510206;fill:#ffffff;stroke:none" />
+      <path
+         style="fill:#cccccc;stroke:none"
+         d="m 96.716549,442.41216 -4.541787,1.38325 -4.720287,-1.26259 1.370207,-2.08131 6.487402,0.008 z"
+         id="path4699"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4673"
+         d="m 85.134751,442.41216 -4.541788,1.38325 -4.720287,-1.26259 1.370207,-2.08131 6.4874,0.008 z"
+         style="fill:#cccccc;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4701"
+         d="m 96.177083,442.26151 -3.938969,1.09579 -0.03851,-2.62175 2.88245,0.004 z"
+         style="opacity:0.46122448;fill:#ffffff;stroke:none" />
+      <path
+         style="opacity:0.46122448;fill:#ffffff;stroke:none"
+         d="m 84.595283,442.26151 -3.938973,1.09579 -0.03851,-2.62175 2.882454,0.004 z"
+         id="path4675"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4625"
+       d="m -113.69442,414.22371 1.141,-5.98735 -13.59655,-1.0685 -2.98844,7.07875 z"
+       style="opacity:0.36285735;fill:#808080;stroke:none"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4627"
+       d="m -147.07458,404.39703 2.52331,4.37719 -0.0514,12.05011 -2.9353,3.86222 22.82588,-1.75086 -2.84532,-8.72781 3.34726,-8.31746 z"
+       style="fill:#e6e6e6;stroke:none"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4629"
+       d="m -127.53527,414.2635 3.30548,-8.37865 -22.86943,-1.48341 2.57285,4.40066 0.006,5.68369 z"
+       style="opacity:0.15102042;fill:#808080;stroke:none"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.38249812px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -142.61577,389.46756 -22.16864,-1.55414 -1.32819,1.06255 0,7.2205 1.17122,1.17122 c 7.41362,-0.51402 14.56062,-1.02805 22.24084,-1.54207 l 1.32376,-0.89803 0.0121,-4.54635 z"
+       id="path3988"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.46122448;fill:#808080;stroke:none"
+       d="m -111.62119,408.51161 -0.99229,5.70761 7.3268,0.0215 0.0825,-2.28133 z"
+       id="path4633"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#c83737;stroke:none"
+       d="m -165.9333,389.05988 -0.0101,7.04975 1.05937,1.08791 1.22623,-1.59378 -0.0159,-5.66184 -1.05669,-1.85188 z"
+       id="path3996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4000"
+       d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+       style="fill:#37abc8;stroke:none;filter:url(#filter4518)"
+       transform="matrix(0,0.40619297,-0.40619297,0,31.849739,374.09806)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       transform="matrix(0,0.26157279,-0.26157279,0,-37.333691,380.80086)"
+       style="opacity:0.52653061;fill:#216778;stroke:none;filter:url(#filter4518)"
+       d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+       id="path4524"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4555"
+       d="m 14.629292,456.08807 10.575034,4.45099 11.253731,-3.40927 -2.13938,-30.248 -8.849122,0.96491 -8.761311,-1.18473 z"
+       style="fill:#2c89a0;stroke:none;filter:url(#filter4569)"
+       transform="matrix(0,0.38249813,-0.38249813,0,20.644079,382.88524)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#2c89a0;stroke:none"
+       d="m -153.80876,388.48092 -1.7025,4.04493 1.30404,4.30453 11.56981,-0.81831 -0.36908,-3.38477 0.45316,-3.35119 z"
+       id="path4526"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.53061224;fill:#00aad4;stroke:none;filter:url(#filter4579)"
+       d="m 15.879292,458.23741 8.758331,4.56094 10.815358,-3.68289 -2.144334,-30.18422 -7.946283,2.22707 -7.891988,-2.81523 z"
+       id="path4573"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       transform="matrix(0,0.38249813,-0.38249813,0,20.644079,382.88524)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4528"
+       d="m -154.63088,388.95904 -1.74455,3.35005 1.4087,4.13685 11.5454,-0.82021 -0.85185,-3.03943 1.07682,-3.01867 z"
+       style="opacity:0.53061224;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.36285735;fill:#ffffff;stroke:none"
+       d="m -144.83611,392.55015 1.09285,-2.73213 -11.54325,-0.54642 -1.53682,3.41515 z"
+       id="path4549"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#cccccc;stroke:none"
+       d="m -165.31116,387.42768 1.29042,2.23849 -0.0263,6.16242 -1.5011,1.97514 11.45579,-0.89539 -1.23775,-4.29263 1.71178,-4.42431 z"
+       id="path3998"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.35510206;fill:#ffffff;stroke:none"
+       d="m -155.7286,392.74319 1.69042,-4.29849 -10.72208,-0.72447 1.11085,2.0285 -0.0483,3.09106 z"
+       id="path4522"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="fill:#cccccc;stroke:none"
+       d="m -142.54976,389.27574 -1.00702,3.30649 0.91918,3.43644 1.51523,-0.99753 -0.006,-4.72293 z"
+       id="path4551"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4553"
+       d="m -142.44008,389.66848 -0.79775,2.86763 1.90867,0.028 -0.003,-2.09847 z"
+       style="opacity:0.46122448;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4731"
+       d="m -142.61577,434.04669 -22.16864,-1.55414 -1.32819,1.06254 0,7.2205 1.17122,1.17123 c 7.41362,-0.51403 14.56062,-1.02806 22.24084,-1.54208 l 1.32376,-0.89803 0.0121,-4.54634 z"
+       style="fill:#ffffff;stroke:#808080;stroke-width:0.38249812px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4733"
+       d="m -165.9333,433.63901 -0.0101,7.04974 1.05937,1.08791 1.22623,-1.59378 -0.0159,-5.66183 -1.05669,-1.85189 z"
+       style="fill:#c83737;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       transform="matrix(0,0.40619297,-0.40619297,0,31.849739,418.67718)"
+       style="fill:#37abc8;stroke:none;filter:url(#filter4518)"
+       d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+       id="path4735"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4737"
+       d="m 36.142935,487.78637 18.430796,0.0262 2.844227,-2.7696 -4.166766,-3.20586 -14.802261,0.0414 -4.841553,2.7626 z"
+       style="opacity:0.52653061;fill:#216778;stroke:none;filter:url(#filter4518)"
+       transform="matrix(0,0.26157279,-0.26157279,0,-37.333691,425.37998)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       transform="matrix(0,0.38249813,-0.38249813,0,20.644079,427.46437)"
+       style="fill:#2c89a0;stroke:none;filter:url(#filter4569)"
+       d="m 14.629292,456.08807 10.575034,4.45099 11.253731,-3.40927 -2.13938,-30.248 -8.849122,0.96491 -8.761311,-1.18473 z"
+       id="path4739"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4741"
+       d="m -153.80876,433.06004 -1.7025,4.04493 1.30404,4.30453 11.56981,-0.8183 -0.36908,-3.38478 0.45316,-3.35118 z"
+       style="fill:#2c89a0;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       transform="matrix(0,0.38249813,-0.38249813,0,20.644079,427.46437)"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4743"
+       d="m 15.879292,458.23741 8.758331,4.56094 10.815358,-3.68289 -2.144334,-30.18422 -7.946283,2.22707 -7.891988,-2.81523 z"
+       style="opacity:0.53061224;fill:#00aad4;stroke:none;filter:url(#filter4579)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.53061224;fill:#ffffff;stroke:none"
+       d="m -154.63088,433.53817 -1.74455,3.35004 1.4087,4.13685 11.5454,-0.8202 -0.85185,-3.03944 1.07682,-3.01867 z"
+       id="path4745"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4747"
+       d="m -144.83611,437.12927 1.09285,-2.73213 -11.54325,-0.54642 -1.53682,3.41516 z"
+       style="opacity:0.36285735;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4749"
+       d="m -165.31116,432.00681 1.29042,2.23849 -0.0263,6.16242 -1.5011,1.97513 11.45579,-0.89539 -1.23775,-4.29263 1.71178,-4.4243 z"
+       style="fill:#cccccc;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4751"
+       d="m -155.7286,437.32231 1.69042,-4.29849 -10.72208,-0.72447 1.11085,2.02851 -0.0483,3.09105 z"
+       style="opacity:0.35510206;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4753"
+       d="m -142.54976,433.85486 -1.00702,3.30649 0.91918,3.43645 1.51523,-0.99754 -0.006,-4.72292 z"
+       style="fill:#cccccc;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+    <path
+       style="opacity:0.46122448;fill:#ffffff;stroke:none"
+       d="m -142.44008,434.2476 -0.79775,2.86764 1.90867,0.028 -0.003,-2.09848 z"
+       id="path4755"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/raptor.png"
+       inkscape:export-xdpi="119.94"
+       inkscape:export-ydpi="119.94" />
+  </g>
+</svg>

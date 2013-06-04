@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4285"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 8">
+  <defs
+     id="defs4287" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="577.3618"
+     inkscape:cy="823.55288"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4290">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#c83737;stroke:none"
+       d="m 342.44171,172.83831 22.22336,-88.202265 16.16244,94.901175 36.36549,-33.49454 3.03046,48.00883 96.97464,-33.49454 -65.65992,59.17368 135.36045,32.37805 -136.3706,-3.34945 28.28427,59.17367 -68.69037,-29.0286 0,98.25063 -36.36549,-83.73632 -17.17259,35.72749 -13.13199,-40.19343 -32.32488,92.6682 -28.28427,-97.13414 -44.44671,33.49453 27.27412,-49.12532 -91.92389,11.16485 83.84267,-39.07695 -48.48733,-22.32969 50.50763,-2.23297 -47.47717,-106.06602 80.81221,85.9693 1.01015,-36.84399 13.13198,23.44618 4.04061,-51.35828 27.27412,37.96047 z"
+       id="path4293"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/explosion.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4295"
+       d="m 354.22889,296.55998 -31.03463,70.13946 0.0863,-81.17514 -34.99491,22.65706 4.32039,-40.33202 -85.36742,14.02307 62.99971,-39.826 -107.88623,-46.19208 112.861,22.21019 -15.07768,-53.20866 52.95361,33.91096 13.99614,-81.65648 18.29498,74.77398 19.36171,-27.24698 5.18835,35.27562 40.06624,-72.41211 9.67008,84.75775 41.71124,-21.50584 -29.66569,36.94294 77.98877,3.81572 -75.24861,20.53334 37.11707,25.46548 -42.29518,-5.33915 24.34899,94.91516 -54.91673,-82.96139 -6.08808,30.47728 -7.57406,-21.3569 -10.67432,42.10847 -17.26003,-35.43439 z"
+       style="fill:#ffcc00;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/explosion.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+  </g>
+</svg>

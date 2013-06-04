@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4316"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 10">
+  <defs
+     id="defs4318" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="124.54451"
+     inkscape:cy="708.98471"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4321">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="path4324"
+       sodipodi:cx="447.14285"
+       sodipodi:cy="399.50504"
+       sodipodi:rx="237.14285"
+       sodipodi:ry="80"
+       d="m 684.28571,399.50504 a 237.14285,80 0 1 1 -474.28571,0 237.14285,80 0 1 1 474.28571,0 z"
+       transform="translate(-94.285714,37.142857)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       transform="matrix(0.78818846,0,0,0.78818846,-32.662435,120.13613)"
+       d="m 684.28571,399.50504 a 237.14285,80 0 1 1 -474.28571,0 237.14285,80 0 1 1 474.28571,0 z"
+       sodipodi:ry="80"
+       sodipodi:rx="237.14285"
+       sodipodi:cy="399.50504"
+       sodipodi:cx="447.14285"
+       id="path4838"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;opacity:0.56734694"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 467.14285,381.6479 -92.85714,2.14285 48.98985,108.9032 c 76.41848,-1.94772 240.45431,-69.16871 43.86729,-111.04605 z"
+       id="path4842"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#ececec;stroke:none"
+       d="m 383.10035,403.08664 40.27983,89.90358 c -56.98497,5.26377 -115.3659,8.68981 -173.69393,0.52301 l 73.56256,-99.77051 z"
+       id="path4844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       transform="matrix(0.48214286,0,0,0.48214286,137.32143,176.88654)"
+       d="m 684.28571,399.50504 a 237.14285,80 0 1 1 -474.28571,0 237.14285,80 0 1 1 474.28571,0 z"
+       sodipodi:ry="80"
+       sodipodi:rx="237.14285"
+       sodipodi:cy="399.50504"
+       sodipodi:cx="447.14285"
+       id="path4836"
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;opacity:0.56734694"
+       id="path4840"
+       sodipodi:cx="447.14285"
+       sodipodi:cy="399.50504"
+       sodipodi:rx="237.14285"
+       sodipodi:ry="80"
+       d="m 684.28571,399.50504 a 237.14285,80 0 1 1 -474.28571,0 237.14285,80 0 1 1 474.28571,0 z"
+       transform="matrix(0.46826592,0,0,0.46826592,145.94987,193.54061)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#e6e6e6;stroke:none;opacity:0.31428571"
+       d="m 266.10554,373.47798 c 0,0 -16.645,-128.98288 24.93845,-166.82966 31.20898,-28.40454 93.77445,-33.63022 126.41217,-6.87957 46.59019,38.18643 25.7984,178.86892 25.7984,178.86892 -64.18606,16.25744 -123.73317,16.27858 -177.14902,-5.15969 z"
+       id="path4846"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#2ca02c;stroke:none"
+       d="m 343.11593,325.54801 c 0,0 -14.86188,35.19311 -4.2617,46.66562 5.73871,6.21097 20.98896,3.99994 25.5702,0.42618 12.55843,-9.79669 -8.09723,-47.0918 -8.09723,-47.0918 z"
+       id="path4852"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#71c837;stroke:none"
+       d="m 326.3132,308.75212 c 0,0 -20.09154,-41.17873 -8.43773,-56.05068 16.17725,-20.64451 62.1582,-27.86512 78.35041,-7.23234 15.21862,19.39218 -24.10782,69.91267 -24.10782,69.91267 -14.43458,16.96546 -33.98244,17.27683 -45.80486,-6.62965 z"
+       id="path4850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#165016;stroke:none"
+       d="m 342.19993,274.85626 c -1.26743,-0.79997 -13.56161,-8.88825 -18.56139,-7.1123 -4.96592,1.7639 -3.67937,13.12145 0.86736,15.78585 5.66714,3.32099 23.24864,-5.16757 17.69403,-8.67355 z"
+       id="path4858"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssss"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       sodipodi:nodetypes="ssss"
+       inkscape:connector-curvature="0"
+       id="path4860"
+       d="m 354.55897,274.85626 c 1.26742,-0.79997 13.5616,-8.88825 18.56139,-7.1123 4.96591,1.7639 3.67936,13.12145 -0.86736,15.78585 -5.66715,3.32099 -23.24864,-5.16757 -17.69403,-8.67355 z"
+       style="fill:#165016;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="fill:#1a1a1a;stroke:none"
+       d="m 330.82274,299.32156 c 0,0 6.24855,15.59319 13.30759,17.02247 12.40645,2.51197 33.18417,-18.46297 33.18417,-18.46297 0,0 -21.51159,6.81354 -32.51048,6.06917 -4.89798,-0.33147 -13.98128,-4.62867 -13.98128,-4.62867 z"
+       id="path4862"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       sodipodi:nodetypes="csscc"
+       inkscape:connector-curvature="0"
+       id="path4868"
+       d="m 368.01388,244.82617 c 0,0 -44.10483,10.75185 -38.44879,3.53393 7.85143,-10.01958 49.15265,-17.14019 57.01136,-7.12631 7.38617,9.41177 -2.05733,13.1383 -2.05733,13.1383 -3.08812,-11.65496 -10.76736,2.05681 -16.50524,-9.54592 z"
+       style="opacity:0.32653061;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.59183673;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4848"
+       sodipodi:cx="325.35715"
+       sodipodi:cy="242.71933"
+       sodipodi:rx="27.5"
+       sodipodi:ry="27.5"
+       d="m 352.85715,242.71933 a 27.5,27.5 0 1 1 -55,0 27.5,27.5 0 1 1 55,0 z"
+       transform="translate(-5.7142857,-12.142857)"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       sodipodi:nodetypes="ssss"
+       inkscape:connector-curvature="0"
+       id="path4870"
+       d="m 334.18989,272.55777 c -0.68865,-0.43465 -7.36859,-4.82936 -10.08519,-3.86441 -2.69819,0.95841 -1.99915,7.12944 0.47128,8.57712 3.0792,1.80443 12.63196,-2.80776 9.61391,-4.71271 z"
+       style="opacity:0.47346939;fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+    <path
+       style="opacity:0.4857143;fill:#ffffff;stroke:none"
+       d="m 360.97006,273.01148 c 0.78504,-0.4955 8.40002,-5.50535 11.49688,-4.40534 3.07587,1.09256 2.27899,8.12739 -0.53724,9.77772 -3.51022,2.05701 -14.40015,-3.20079 -10.95964,-5.37238 z"
+       id="path4872"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssss"
+       inkscape:export-filename="/home/gjorge/Desktop/humanoid/enemy.png"
+       inkscape:export-xdpi="21.200001"
+       inkscape:export-ydpi="21.200001" />
+  </g>
+</svg>
